@@ -1,2 +1,17 @@
 # Multaqa_V01
 Smart 3D + AI Integrated University Ecosystem (In Development) — Documentation &amp; UI previews. (web and app application)
+
+## ⚠️ Important Note
+
+> **Important Note:** The videos above are **concept demos** only and are not the final version of the project.  
+> The final product will be **dramatically upgraded** and will look **completely different**, featuring a full **3D university world** including:  
+> - A complete **3D university model from a top view** with clickable **Pins** for buildings, colleges, and events  
+> - Fully interactive **3D colleges and campus environments**  
+> - Smart **AI assistants** that interact naturally with users (e.g., "Go to Science College"), guiding them and responding in real-time  
+> - A significantly improved and cinematic UI/UX experience  
+
+🎬 **University Page – 3D & UI Concept**  
+👉 [▶️ Watch Video](https://youtu.be/mM3qXONJ97Q)
+
+🎬 **College Page – UI Concept**  
+👉 [▶️ Watch Video](https://youtu.be/n_YNguUQ3OU)
