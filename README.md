@@ -10,8 +10,8 @@ Smart 3D + AI Integrated University Ecosystem (In Development) — Documentation
 > - Smart **AI assistants** that interact naturally with users (e.g., "Go to Science College"), guiding them and responding in real-time  
 > - A significantly improved and cinematic UI/UX experience  
 
-🎬 **University Page – 3D & UI Concept**  
-👉 [▶️ Watch Video](https://youtu.be/mM3qXONJ97Q)
-
 🎬 **College Page – UI Concept**  
+👉 [▶️ Watch Video](https://youtu.be/mM3qXONJ97Q)
+🎬 **University Page – 3D & UI Concept**  
+
 👉 [▶️ Watch Video](https://youtu.be/n_YNguUQ3OU)
