@@ -1,0 +1,76 @@
+# Multaqa (ملتقى) — Smart 3D University Ecosystem (In Development)
+
+ **Status:** 🚧 Under Development (Documentation & UI/Concept Previews Only — No source code published)
+
+## Overview
+**Multaqa** is a smart platform that connects **Universities, Students, and Companies** in one integrated ecosystem.
+The goal is to transform the university experience into a **3D + AI guided digital campus** where students can explore, discover opportunities, and access services easily.
+
+## The Problem
+Many students face repeated issues across their university journey:
+- **1st year:** confusion and stress (buildings, halls, offices, where to go).
+- **2nd/3rd year:** missing workshops, events, and skill-building opportunities due to scattered info.
+- **4th year / Graduates:** difficulty finding **internships** and **job opportunities**, and reaching the right companies.
+- **Companies:** no unified, official channel to reach students with targeted training, internships, and jobs.
+
+## The Solution
+Multaqa provides:
+- A **3D Campus Map** for each university (interactive buildings, colleges, and event pins).
+- **360° Virtual Tours** for colleges and facilities (immersive panoramic tour).
+- **Two-level AI Guidance**:
+  - **System-level AI** (invoked by “يا ملتقى”) to navigate universities/companies/posts quickly.
+  - **University-level AI** to guide students inside a specific university (halls, events, colleges).
+- **Interactive Study Plan Tree (D3-style)**:
+  - Degree plan shown as a tree with prerequisites.
+  - Each course opens a **Course Details page** (outcomes, hours, prerequisites, etc.).
+- **Smart Schedule Assistant**
+  - Students provide their year/semester and intended courses.
+  - AI suggests the **best possible schedule** based on prerequisites and constraints.
+- **Targeted Posts**
+  - Universities and companies can publish posts with targeting by **college / department / year / audience**.
+- **Verified Student Identity (Optional Feature)**
+  - Student ID + student number + live face capture for verification (AI matching).
+- **Digital University Services**
+  - Universities can add **dynamic services** using configurable forms (online / on-campus, paid / free).
+
+## Key Modules
+- **University Space:** 3D campus, event pins, colleges & facilities pages.
+- **Students Space:** personalized discovery, events, plans, schedule support.
+- **Companies Space:** internships, jobs, workshops, targeted announcements.
+- **External Community:** view universities/companies and enroll in company offerings.
+
+## Preview (UI / Concept)
+> Screenshots and previews will be added here.
+
+### 3D Campus Preview
+![3D Campus Preview](assets/preview_3d_campus.png)
+
+### Study Plan Tree Preview
+![Study Plan Tree Preview](assets/preview_plan_tree.png)
+
+### AI Assistant Preview
+![AI Assistant Preview](assets/preview_ai_assistant.png)
+
+## Roadmap (Planned)
+- [ ] Core platform structure (universities / companies / students)
+- [ ] 3D campus prototype + pins + navigation
+- [ ] Study plan tree + course details pages
+- [ ] AI assistant (system + university levels)
+- [ ] 360° tours integration
+- [ ] Targeted posts + moderation
+- [ ] Dynamic services builder + payment options
+- [ ] Virtual campus world (advanced phase)
+
+## Tech (Planned / In Progress)
+- 3D: ----
+- Visualization: D3.js (Study plan tree)
+- Backend: (TBD)
+- Auth & Roles: (TBD)
+- AI: (TBD)
+
+## Notes
+This repository is currently used for **project documentation, previews, and progress updates**.
+Source code is not published at this stage.
+
+---
+📩 If you are interested in collaboration, academic supervision, or partnerships, feel free to reach out.
