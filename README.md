@@ -17,6 +17,9 @@ Smart 3D + AI Integrated University Ecosystem (In Development) — Documentation
 🎬 **What is Multaqa For Students?**  
 👉 [▶️ Watch Video](https://youtube.com/shorts/MVczXDNxIPE?feature=share)
 
+🎬 **Student Movement Heatmap – Under Development**  
+👉 [▶️ Watch Video](https://youtu.be/Uki8p_a49sc)
+
 🎬 **College Page – UI Concept**  
 👉 [▶️ Watch Video](https://youtu.be/mM3qXONJ97Q)
 
