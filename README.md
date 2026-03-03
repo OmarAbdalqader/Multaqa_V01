@@ -14,9 +14,6 @@ Smart 3D + AI Integrated University Ecosystem (In Development) — Documentation
 🎬 **What is Multaqa?**  
 👉 [▶️ Watch Video](https://youtu.be/ZbBkPW08fdk)
 
-🎬 **What is Multaqa For Students?**  
-👉 [▶️ Watch Video](https://youtube.com/shorts/MVczXDNxIPE?feature=share)
-
 🎬 **University World 3D**  
 👉 [▶️ Watch Video](https://youtu.be/eVPTNp3NTAE)
 
